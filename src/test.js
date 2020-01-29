@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import Form from './index'
 
-describe('ExampleComponent', () => {
-  it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+describe('Test form', () => {
+  it('Empty object', () => {
+    expect(Form).toBeTruthy()
   })
-})
+});
