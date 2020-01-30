@@ -4,7 +4,7 @@
   "description": "Creating a table from json",
   "author": "mandrikv",
   "license": "MIT",
-  "repository": "mandrikv/json-to-form",
+  "repository": "git@github.com:mandrikv/json-to-form.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
